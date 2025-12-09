@@ -1,6 +1,6 @@
 # InstaFlow – Baseline vs Quantized (CPU)
 **IE 643 Course Project — “Quantization of InstaFlow Model”**  
-Team: **Sota** • Members: **Akshat Kumar (22B4513), Anirudh Shinde (22B2181)**
+Team: **Sota** • Members: **Akshat Kumar (22B4513), Anirudha Shinde (22B2181)**
 
 This repository contains:
 
